@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#3399ff;
+  color:#468999;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #edf007;
+  color: #3399ff;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -121,7 +121,7 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
-  color: #2f2f2f;
+  color: #468999;
   text-decoration: underline;
 }
 
